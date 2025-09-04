@@ -1,3 +1,4 @@
+````markdown
 # 🎮 Guess The Number Game (Java)
 
 A simple **Java console-based game** where the player tries to guess a randomly generated number within a limited number of attempts. The game also keeps track of rounds and scores.
@@ -60,3 +61,5 @@ You earned 70 points. Your total score is now 70.
 ---
 
 👨‍💻 Developed by [**Balasundharam J**](https://github.com/bala25042004)
+
+```
